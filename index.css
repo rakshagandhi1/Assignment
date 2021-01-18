@@ -1,0 +1,94 @@
+.main {
+  background-color: #FCDB00;
+  padding: 20px;
+  margin: auto;
+}
+
+nav {
+  text-align: center;
+}
+
+.nav-link {
+  font-weight: bold;
+  color: black !important;
+}
+
+.header-left h6 {
+  color: grey;
+  font-weight: 600;
+}
+
+.header-left p {
+  margin-top: 20px;
+  color: #665f5f;
+}
+
+.header-left p i {
+  color: black;
+  font-size: 32px;
+}
+
+.grey-text {
+  color: #a1a1a1;
+}
+
+footer {
+  background-color: #000000;
+}
+
+footer .footer-text h4 {
+  color: #FCDB00;
+  letter-spacing: 0.8px;
+  margin-top: 30px;
+}
+
+footer .footer-text p {
+  color: grey;
+  text-align: center;
+}
+
+footer form input[type=email] {
+  width: 30vw;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+footer form button {
+  background-color: #FCDB00;
+  color: black;
+  margin-left: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+.social-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  width: 200px;
+  color: black;
+  margin: auto;
+}
+
+.social-icons i {
+  background-color: #FCDB00;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.footer-links {
+  margin-top: 50px;
+}
+
+.footer-links p:hover {
+  color: #FCDB00;
+  cursor: pointer;
+}
+/*# sourceMappingURL=index.css.map */
